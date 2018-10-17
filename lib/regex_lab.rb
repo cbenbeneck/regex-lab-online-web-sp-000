@@ -22,7 +22,7 @@ else
   end
 end
 
-
 def valid_phone_number?(phone)
+ if phone. 
 
 end
